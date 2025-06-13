@@ -11,6 +11,7 @@ This repository contains a Machine Learning model that predicts student scores b
 
 - `score_prediction_model.pkl` – Trained ML model saved using `pickle`.
 - `README.md` – Overview and instructions.
+- `Hours_Scores.csv` – Dataset
 
 ## 🧠 Model Information
 
